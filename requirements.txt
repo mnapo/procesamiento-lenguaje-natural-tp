@@ -15,4 +15,4 @@ pandas>=2.2             # tabular el corpus
 matplotlib>=3.9         # graficar frecuencias
 ipykernel>=6.29         # correr notebooks dentro de VS Code
 spacy==3.8.7            # procesamiento de lenguaje natural y análisis POS
-es-core-news-sm==3.8.0  # modelo de spaCy para el procesamiento de textos en español
+es-core-news-lg==3.8.0  # modelo grande de spaCy para el procesamiento de textos en español
